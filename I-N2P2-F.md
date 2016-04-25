@@ -38,7 +38,7 @@ git : https://github.com/vitsem/tdd
 * DELPORTE  ALLAN : 
 * DESCHAMPS GEOFFREY : 
 * VANDEPUTTE  SIMON : 
-
+git : https://github.com:Doudou742/tdd.git
 
 
 * BELKADI RAYANE : 
